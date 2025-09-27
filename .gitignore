@@ -1,0 +1,4 @@
+dev-wallet.json
+spl-token-permanent-delegate/node_modules/
+*.env
+*.log
